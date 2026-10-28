@@ -1,0 +1,1 @@
+start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --touch-events --kiosk "file:///C:\UF\[app_name]\index.html"

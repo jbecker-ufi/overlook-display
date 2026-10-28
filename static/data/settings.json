@@ -1,0 +1,32 @@
+UF.Data = {
+	"width":3840,
+	"height":2160,
+	"isTouchScreen": true,
+	"useTimeout": true,
+	"timeout":120,
+	"stillThere":10,
+	"preventBrowserZoom": true,
+	"useAttract":false,
+	"backgroundColor": "#000000",
+	"server":"http://192.168.1.174",
+	"text": {
+		
+	},
+	"fonts": [
+		{ "name":"gotham_book", "opentype":"assets/fonts/Gotham-Book.otf" },
+		{ "name":"gotham_bold", "opentype":"assets/fonts/Gotham-Bold.otf" },
+		{ "name":"gotham_black", "opentype":"assets/fonts/Gotham-Black.otf" },
+		{ "name":"gotham_medium", "opentype":"assets/fonts/Gotham-Medium.otf" },
+		{ "name":"gotham_light", "opentype":"assets/fonts/Gotham-Light.otf" },
+		{ "name":"gotham_medium_italic", "opentype":"assets/fonts/Gotham-MediumItalic.otf" },
+		{ "name":"almarai_extrabold", "truetype":"assets/fonts/Almarai-ExtraBold.ttf" },
+		{ "name":"almarai_bold", "truetype":"assets/fonts/Almarai-Bold.ttf" },
+		{ "name":"almarai_regular", "truetype":"assets/fonts/Almarai-Regular.ttf" },
+		{ "name":"almarai_light", "truetype":"assets/fonts/Almarai-Light.ttf" },
+		{ "name":"noto_bold", "truetype":"assets/fonts/NotoSansHebrew-Bold.ttf" },
+		{ "name":"noto_semibold", "truetype":"assets/fonts/NotoSansHebrew-SemiBold.ttf" },
+		{ "name":"noto_medium", "truetype":"assets/fonts/NotoSansHebrew-Medium.ttf" },
+		{ "name":"noto_regular", "truetype":"assets/fonts/NotoSansHebrew-Regular.ttf" },
+		{ "name":"courier_prime", "truetype":"assets/fonts/CourierPrime-Bold.ttf" }
+	]
+}

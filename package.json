@@ -1,0 +1,11 @@
+{
+  "name": "MOTJ Overlook Display",
+  "version": "0.0.1",
+  "description": "Simple web server",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "bundledDependencies": [
+    "express"
+  ]
+}

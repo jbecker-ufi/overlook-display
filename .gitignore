@@ -1,0 +1,7 @@
+/static/assets/audio/*
+/static/assets/images/*
+/static/assets/fonts/*
+/static/assets/videos/*
+/static/jscripts/repo/*
+/static/jscripts/shared/*
+/node_modules/*
